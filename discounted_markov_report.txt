@@ -1,0 +1,10 @@
+=== DISCOUNTED MARKOV MODEL REPORT (3% Annual Discount Rate) ===
+
+Standard Care -> Discounted Cost: $29,204.63 | Discounted QALY: 5.69
+New Drug      -> Discounted Cost: $26,374.90 | Discounted QALY: 6.13
+-----------------------------------------------------------------
+Incremental Discounted Cost : $-2,829.73
+Incremental Discounted QALY : 0.44
+Discounted ICER             : $-6,479.22 per QALY gained
+
+Note: Discounted at 3% per year according to standard HEOR guidelines.

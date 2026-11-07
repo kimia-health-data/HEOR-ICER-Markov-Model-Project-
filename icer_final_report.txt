@@ -1,0 +1,3 @@
+Incremental Cost: $7,042.50
+Incremental QALY: 0.74
+ICER: $9,478.07 per QALY gained

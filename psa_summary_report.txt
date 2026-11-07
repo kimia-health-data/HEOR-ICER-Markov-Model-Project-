@@ -1,0 +1,6 @@
+=== PROBABILISTIC SENSITIVITY ANALYSIS (PSA) REPORT ===
+
+Number of Iterations: 1000
+Discount Rate: 3.0%
+Mean Discounted ICER   : $-8,863.60
+Median Discounted ICER : $-6,704.45
